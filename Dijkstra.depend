@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1573577740 source:c:\users\bruno\desktop\trabalho ed\dijkstra\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"libraly.h"
+
+1573577706 c:\users\bruno\desktop\trabalho ed\dijkstra\libraly.h
+
+1573577810 source:c:\users\bruno\desktop\trabalho ed\dijkstra\funcoes.c
+	<stdio.h>
+	<conio.h>
+	"libraly.h"
+
+1573577810 source:c:\users\academico\desktop\ed2\dijkstra\funcoes.c
+	<stdio.h>
+	<conio.h>
+	"libraly.h"
+
+1573577706 c:\users\academico\desktop\ed2\dijkstra\libraly.h
+
+1573577740 source:c:\users\academico\desktop\ed2\dijkstra\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+	"libraly.h"
+
